@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-22T01:52:11.682561633Z"
+    description: springboot backend for Kubernetes
+    digest: 5b338146ec4df396d15f3f936564d51ed9a248c98c62790f76206795c85aa372
+    name: backend
+    type: application
+    urls:
+    - backend-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-22T01:52:11.681439463Z"
